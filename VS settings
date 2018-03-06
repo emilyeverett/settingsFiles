@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+    "editor.rulers": [100],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100,
+    "workbench.colorTheme": "Monokai",
+    "workbench.editor.openPositioning": "last",
+    "editor.fontSize": 12,
+    "markdown.preview.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "window.zoomLevel": -1,
+    "extensions.ignoreRecommendations": false,
+    "todohighlight.isEnabled": true,
+    "todohighlight.keywords": ["TODO",
+    {"text": "TODO",
+        "color": "black",
+        "backgroundColor": "white"}],
+    "todohighlight.include": {"*.java",
+                              "*.cpp",
+                              "*.h"}
+}
